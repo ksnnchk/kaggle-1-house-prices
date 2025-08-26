@@ -2,6 +2,8 @@
 
 This project implements a neural network model for real estate price prediction with prediction intervals, providing both point estimates and uncertainty quantification.
 
+Kaggle hackathon: https://www.kaggle.com/competitions/prediction-interval-competition-ii-house-price
+
 ## Overview
 
 The model predicts house sale prices using various property features and provides prediction intervals to quantify uncertainty in the predictions. This is particularly valuable for real estate applications where understanding the range of possible prices is as important as the point estimate.
